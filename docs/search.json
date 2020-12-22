@@ -5,14 +5,14 @@
       "title": "About",
       "author": [],
       "contents": "\n\nEducation is a path from cocky ignorange to miserable uncertainty - Mark Twain\n\n\n\n\n",
-      "last_modified": "2020-12-22T13:53:06+00:00"
+      "last_modified": "2020-12-22T15:06:48+00:00"
     },
     {
       "path": "index.html",
-      "title": "miserable uncertainty",
+      "title": "Posts",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-22T13:53:06+00:00"
+      "last_modified": "2020-12-22T15:06:48+00:00"
     }
   ],
   "collections": ["posts/posts.json"]

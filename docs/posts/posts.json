@@ -1,14 +1,14 @@
 [
   {
-    "path": "posts/2020-12-20-hello-world/",
+    "path": "posts/2020-12-22-hello-world/",
     "title": "Hello, world!",
     "description": "I don't know what I am doing here.",
     "author": [],
-    "date": "2020-12-20",
+    "date": "2020-12-22",
     "categories": [],
-    "contents": "\nHere be dragons.\n\n\n\n",
+    "contents": "\nDoes it work?\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-22T11:21:51+00:00",
+    "last_modified": "2020-12-22T13:57:40+00:00",
     "input_file": {}
   }
 ]

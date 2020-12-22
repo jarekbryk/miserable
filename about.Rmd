@@ -6,4 +6,4 @@ title: "About"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-> Education is a path from cocky ignorange to miserable uncertainty
+> Education is a path from cocky ignorange to miserable uncertainty - Mark Twain

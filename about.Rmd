@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 > - Mark Twain
 
 > Perpetually disappointed but not surprised<br />
-> - Kaye Wadland
+> - @kaye_wadland
 
 > The best lack all conviction, while the worst<br />
 > Are full of passionate intensity.

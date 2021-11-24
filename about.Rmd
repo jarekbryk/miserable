@@ -13,5 +13,5 @@ knitr::opts_chunk$set(echo = FALSE)
 > - @kaye_wadland
 
 > The best lack all conviction, while the worst<br />
-> Are full of passionate intensity.
+> Are full of passionate intensity.<br />
 > - William Butler Yeats, _The Second Coming_

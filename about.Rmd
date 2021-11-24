@@ -9,10 +9,8 @@ knitr::opts_chunk$set(echo = FALSE)
 > Education is a path from cocky ignorance to miserable uncertainty<br />
 > - Mark Twain
 
-
 > Perpetually disappointed but not surprised<br />
 > - @kaye_wadland
-
 
 > The best lack all conviction, while the worst<br />
 > Are full of passionate intensity.
